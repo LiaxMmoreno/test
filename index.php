@@ -11,4 +11,6 @@
 	for($i=0; $i<=10; $i++){
 		echo'<br> otro: '.$i*5;
 	}	
+	echo'parece ser que esto no se actualiza';
+	
 ?>
