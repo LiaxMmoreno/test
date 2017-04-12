@@ -7,5 +7,8 @@
 	for($i=0; $i<=10; $i++){
 		echo'<br> indice: '.$i;
 	}
-	
+
+	for($i=0; $i<=10; $i++){
+		echo'<br> otro: '.$i*5;
+	}	
 ?>
